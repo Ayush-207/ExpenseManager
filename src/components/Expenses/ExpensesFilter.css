@@ -1,0 +1,20 @@
+.expenses-filter {
+    color: white;
+    padding: 0 1rem;
+}
+
+.expenses-filter__control {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expenses-filter__control select,
+option {
+    font-size: 1rem;
+}
+
+.expenses-filter__control h2 {
+    color: aliceblue;
+}
